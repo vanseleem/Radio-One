@@ -1,0 +1,58 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="tschaikowski" tvg-name="TSCHAIKOWSKI FM" group-title="Classical", TSCHAIKOWSKI FM
+https://stream1-epic-piano.radiohost.de/tschaikowski?ref=radiobrowser.mp3
+#EXTINF:-1 tvg-id="klassik_fm" tvg-name="Klassik FM" group-title="Classical", Klassik FM
+https://live.streams.klassikradio.de/klassikradio-deutschland/stream/mp3
+#EXTINF:-1 tvg-id="grieg_fm" tvg-name="Grieg FM" group-title="Classical", Grieg FM
+https://stream1-epic-piano.radiohost.de/grieg?ref=radiobrowser.mp3
+#EXTINF:-1 tvg-id="mozart_fm" tvg-name="Mozart FM" group-title="Classical", Mozart FM
+https://klassikr.streamabc.net/klr-puremozart-mp3-128-6467911?sABC=67rn0310%230%23q7s809s74070n543n7p5213q6qr39235%23ighare&aw_0_1st.playerid=vtuner&amsparams=playerid:vtuner;skey:174338.mp3
+#EXTINF:-1 tvg-id="abc_classic" tvg-name="ABC Classic" group-title="Classical", ABC Classic
+http://live-radio01.mediahubaustralia.com/2FMW/mp3/;*.mp3
+#EXTINF:-1 tvg-id="venice_classic_radio" tvg-name="Venice Classic Radio" group-title="Classical", Venice Classic Radio
+https://uk2.streamingpulse.com/ssl/vcr1
+#EXTINF:-1 tvg-id="hiline_classic" tvg-name="HILINE Classic" group-title="Classical", HILINE Classic
+http://mediaserv30.live-streams.nl:8088/live
+#EXTINF:-1 tvg-id="baroque_radio" tvg-name="Baroque Radio" group-title="Classical", Baroque Radio
+http://strm112.1.fm/baroque_mobile_mp3
+#EXTINF:-1 tvg-id="ottos_classic_fm" tvg-name="Otto's Classic FM" group-title="Classical", Otto's Classic FM
+http://strm112.1.fm/classical_mobile_mp3
+#EXTINF:-1 tvg-id="classic_fm_calm" tvg-name="Classic FM Calm" group-title="Classical", Classic FM Calm
+https://media-ice.musicradio.com/ClassicFMCalmMP3
+#EXTINF:-1 tvg-id="radio_swiss_fm" tvg-name="Radio Swiss FM" group-title="Classical", Radio Swiss FM
+http://stream.srg-ssr.ch/m/rsc_it/mp3_128
+#EXTINF:-1 tvg-id="allzik_classic" tvg-name="Allzik Classic" group-title="Classical", Allzik Classic
+http://allzic06.ice.infomaniak.ch/allzic06.mp3
+
+#EXTINF:-1 tvg-id="peaceful_piano_radio" tvg-name="Peaceful Piano Radio" group-title="Piano", Peaceful Piano Radio
+https://holiday.stream.publicradio.org/peacefulpiano.mp3
+#EXTINF:-1 tvg-id="whispering_solo" tvg-name="Whispering Solo" group-title="Piano", Whispering Solo
+https://pianosolo.streamguys1.com/pianosolo48.aac
+#EXTINF:-1 tvg-id="great_piano_concert" tvg-name="Great Piano Concert" group-title="Piano", Great Piano Concert
+https://stream1-epic-piano.radiohost.de/great-piano-concerts?ref=radiobrowser.mp3
+#EXTINF:-1 tvg-id="chopin_fm" tvg-name="Chopin FM" group-title="Piano", Chopin FM
+https://stream1-epic-piano.radiohost.de/chopin?ref=radiobrowser.mp3
+#EXTINF:-1 tvg-id="klassik_radio_piano" tvg-name="Klassik Radio Piano" group-title="Piano", Klassik Radio Piano
+https://klassikr.streamabc.net/klassikr-piano-mp3-192-3745289?sABC=67rnq917%230%23q7s809s74070n543n7p5213q6qr39235%23fgernz.xynffvxenqvb.mp3
+#EXTINF:-1 tvg-id="allzic_classic_piano" tvg-name="Allzic Classic Piano" group-title="Piano", Allzic Classic Piano
+http://allzic47.ice.infomaniak.ch/allzic47.mp3
+
+#EXTINF:-1 tvg-id="easy_instrumentals" tvg-name="Easy Instrumentals" group-title="Lounge", Easy Instrumentals
+https://nl4.mystreaming.net:443/uber/easyinstrumentals/icecast.audio
+#EXTINF:-1 tvg-id="lounge_instrumental_j" tvg-name="Lounge Instrumental J" group-title="Lounge", Lounge Instrumental J
+https://jfm1.hostingradio.ru:14536/ijstream.mp3
+#EXTINF:-1 tvg-id="splash_coffee_radio" tvg-name="Splash Coffee Radio" group-title="Lounge", Splash Coffee Radio
+https://ais-sa2.cdnstream1.com/2345_128.mp3
+#EXTINF:-1 tvg-id="abc_lounge_radio" tvg-name="ABC Lounge Radio" group-title="Lounge", ABC Lounge Radio
+https://eu1.fastcast4u.com/proxy/kpmxz?mp=/1.mp3
+#EXTINF:-1 tvg-id="1fm_bossa_nova_hits" tvg-name="1.FM Bossa Nova Hits" group-title="Lounge", 1.FM Bossa Nova Hits
+http://strm112.1.fm/bossanova_mobile_mp3
+#EXTINF:-1 tvg-id="smooth_deluxe" tvg-name="Smooth Deluxe" group-title="Lounge", Smooth Deluxe
+https://az1.mediacp.eu/listen/asmoothjazzdeluxe/radio.mp3
+#EXTINF:-1 tvg-id="lounge_fm" tvg-name="Lounge FM" group-title="Lounge", Lounge FM
+https://cast.mediaonline.net.ua/chillout320.mp3
+#EXTINF:-1 tvg-id="covers_fm" tvg-name="Covers FM" group-title="Lounge", Covers FM
+https://az1.mediacp.eu/listen/100coverslounge/radio.mp3
+#EXTINF:-1 tvg-id="chillizet_morning_radio" tvg-name="Chillizet Morning Radio" group-title="Lounge", Chillizet Morning Radio
+https://ch01.cdn.eurozet.pl/CHICOV.mp3
