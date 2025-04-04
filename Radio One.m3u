@@ -3,8 +3,6 @@
 https://stream1-epic-piano.radiohost.de/tschaikowski?ref=radiobrowser.mp3
 #EXTINF:-1 Klassik FM
 https://live.streams.klassikradio.de/klassikradio-deutschland/stream/mp3
-#EXTINF:-1 Epic Classical FM
-https://stream1-epic-classical.radiohost.de/classical-coffee-bar
 #EXTINF:-1 Grieg Classic FM
 https://stream1-epic-piano.radiohost.de/grieg?ref=radiobrowser.mp3
 #EXTINF:-1 Mozart FM
@@ -41,6 +39,8 @@ https://klassikr.streamabc.net/klassikr-piano-mp3-192-3745289?sABC=67rnq917%230%
 http://allzic47.ice.infomaniak.ch/allzic47.mp3
 #EXTINF:-1 Lounge French Cafe
 https://stream1-epic-lounge.radiohost.de/french-cafe-lounge?ref=radiobrowser
+#EXTINF:-1 Coffee Epic FM
+https://stream1-epic-classical.radiohost.de/classical-coffee-bar
 #EXTINF:-1 Easy Lounge
 https://nl4.mystreaming.net:443/uber/easyinstrumentals/icecast.audio
 #EXTINF:-1 Lounge Instrumental J
