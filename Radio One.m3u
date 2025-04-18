@@ -9,10 +9,16 @@ https://stream.klassikradio.de/purebach/mp3-128
 https://stream.klassikradio.de/beethoven/mp3-128
 #EXTINF:-1 TSCHAIKOWSKI FM
 https://stream1-epic-piano.radiohost.de/tschaikowski
+#EXTINF:-1 Grieg FM
+https://stream1-epic-piano.radiohost.de/grieg
+#EXTINF:-1 Liszt FM
+https://stream1-epic-piano.radiohost.de/liszt 
 #EXTINF:-1 Baroque FM
 https://stream.laut.fm/baroque_sonatas_radio
 #EXTINF:-1 Romantic Symphonies Radio
 https://klassikr.streamabc.net/klr_asejotj5ekq_hjz5-mp3-192-1000452
+#EXTINF:-1 Classical Romance
+https://stream1-epic-classical.radiohost.de/classical-love-music
 #EXTINF:-1 Cello FM
 http://streams.calmradio.com/api/111/128/stream
 #EXTINF:-1 Cello Radio Caprice
@@ -31,14 +37,14 @@ http://stream.srg-ssr.ch/m/rsc_it/mp3_128
 http://live-radio01.mediahubaustralia.com/2FMW/mp3/;*.mp3
 #EXTINF:-1 Classic HI ONLINE
 http://mediaserv30.live-streams.nl:8088/live
-#EXTINF:-1 Classic Grieg FM
-https://stream1-epic-piano.radiohost.de/grieg?ref=radiobrowser.mp3
 #EXTINF:-1 Klassik FM
 https://live.streams.klassikradio.de/klassikradio-deutschland/stream/mp3
 #EXTINF:-1 Lounge Retro KJBM Radio
 https://das-edge16-live365-dal02.cdnstream.com/a72786
 #EXTINF:-1 Lounge ABC Radio
 https://eu1.fastcast4u.com/proxy/kpmxz?mp=/1.mp3
+#EXTINF:-1 Lounge and Coffee FM
+https://stream1-epic-classical.radiohost.de/classical-lounge
 #EXTINF:-1 Lounge Smooth Radio
 https://klassikr.streamabc.net/klr-smooth-mp3-128-7968529
 #EXTINF:-1 Lounge Bossa Nova Hits
