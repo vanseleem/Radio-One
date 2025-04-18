@@ -1,12 +1,23 @@
 #EXTM3U
+#EXTINF:-1 Chopin FM
+https://stream1-epic-piano.radiohost.de/chopin?ref=radiobrowser.mp3
+#EXTINF:-1 Piano Peacful Radio
+https://holiday.stream.publicradio.org/peacefulpiano.mp3
+#EXTINF:-1 Piano Klassik Radio 
+https://klassikr.streamabc.net/klassikr-piano-mp3-192-3745289?sABC=67rnq917%230%23q7s809s74070n543n7p5213q6qr39235%23fgernz.xynffvxenqvb.mp3
+#EXTINF:-1 Piano Lounge
+https://stream2-epic-lounge.radiohost.de/piano-jazz-bar
+#EXTINF:-1 Piano New Classic
+https://klassikr.streamabc.net/klr_e1fchiop6r4_1umk-mp3-192-2741628?sABC=680293sq%230%23214nq7s49906q7129r07n22p10on5sr3%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1744999421
+#EXTINF:-1 Mozart FM
+https://klassikr.streamabc.net/klr-puremozart-mp3-128-6467911
 #EXTINF:-1 TSCHAIKOWSKI FM
 https://stream1-epic-piano.radiohost.de/tschaikowski?ref=radiobrowser.mp3
 #EXTINF:-1 Klassik FM
 https://live.streams.klassikradio.de/klassikradio-deutschland/stream/mp3
 #EXTINF:-1 Grieg Classic FM
 https://stream1-epic-piano.radiohost.de/grieg?ref=radiobrowser.mp3
-#EXTINF:-1 Mozart FM
-https://klassikr.streamabc.net/klr-puremozart-mp3-128-6467911?sABC=67rn0310%230%23q7s809s74070n543n7p5213q6qr39235%23ighare&aw_0_1st.playerid=vtuner&amsparams=playerid:vtuner;skey:174338.mp3
+
 #EXTINF:-1 ABC Classic
 http://live-radio01.mediahubaustralia.com/2FMW/mp3/;*.mp3
 #EXTINF:-1 Venice Classic Radio
@@ -25,16 +36,10 @@ http://stream.srg-ssr.ch/m/rsc_it/mp3_128
 http://allzic06.ice.infomaniak.ch/allzic06.mp3
 #EXTINF:-1 Romantic Piano 
 https://2.mystreaming.net:443/uber/lrromanticpiano/icecast.audio
-#EXTINF:-1 Peaceful Piano Radio
-https://holiday.stream.publicradio.org/peacefulpiano.mp3
 #EXTINF:-1 Whispering Piano Solo
 https://pianosolo.streamguys1.com/pianosolo48.aac
 #EXTINF:-1 Great Piano Concert
 https://stream1-epic-piano.radiohost.de/great-piano-concerts?ref=radiobrowser.mp3
-#EXTINF:-1 Chopin FM
-https://stream1-epic-piano.radiohost.de/chopin?ref=radiobrowser.mp3
-#EXTINF:-1 Klassik Radio Piano
-https://klassikr.streamabc.net/klassikr-piano-mp3-192-3745289?sABC=67rnq917%230%23q7s809s74070n543n7p5213q6qr39235%23fgernz.xynffvxenqvb.mp3
 #EXTINF:-1 Allzic Classic Piano
 http://allzic47.ice.infomaniak.ch/allzic47.mp3
 #EXTINF:-1 1.Lounge Bossa Nova Hits
