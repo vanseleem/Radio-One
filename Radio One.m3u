@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 Chopin FM
-https://stream1-epic-piano.radiohost.de/chopin?ref=radiobrowser.mp3
+https://stream1-epic-piano.radiohost.de/chopin
 #EXTINF:-1 Mozart FM
 https://klassikr.streamabc.net/klr-puremozart-mp3-128-6467911
 #EXTINF:-1 Bach FM
@@ -8,7 +8,7 @@ https://stream.klassikradio.de/purebach/mp3-128
 #EXTINF:-1 Beethoven FM
 https://stream.klassikradio.de/beethoven/mp3-128
 #EXTINF:-1 TSCHAIKOWSKI FM
-https://stream1-epic-piano.radiohost.de/tschaikowski?ref=radiobrowser.mp3
+https://stream1-epic-piano.radiohost.de/tschaikowski
 #EXTINF:-1 Baroque FM
 https://stream.laut.fm/baroque_sonatas_radio
 #EXTINF:-1 Romantic Symphonies Radio
