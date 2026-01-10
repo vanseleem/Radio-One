@@ -39,18 +39,18 @@ https://eu1.fastcast4u.com/proxy/kpmxz?mp=/1.mp3
 https://psn3.prostreaming.net/proxy/seeburg/stream
 #EXTINF:-1 Lounge FM USA
 https://das-edge16-live365-dal02.cdnstream.com/a72786
-#EXTINF:-1 Lounge FM Germany
-https://klassikr.streamabc.net/klr-filmklassiker-aacplus-64-1848622
-#EXTINF:-1 Lounge FM Belgium
-https://quincy.torontocast.com:1925/stream
-#EXTINF:-1 Lounge FM Mexico
-http://s3.voscast.com:10038/;
 #EXTINF:-1 Lounge FM Estonia
 https://stream.relaxfm.ee/instrumental
 #EXTINF:-1 Lounge FM America
 https://panel.retrolandigital.com/radio/8130/listen
 #EXTINF:-1 Lounge FM Russia
 http://79.120.77.11:8002/instrumental
+#EXTINF:-1 Lounge FM Germany
+https://klassikr.streamabc.net/klr-filmklassiker-aacplus-64-1848622
+#EXTINF:-1 Lounge FM Belgium
+https://quincy.torontocast.com:1925/stream
+#EXTINF:-1 Lounge FM Mexico
+http://s3.voscast.com:10038/;
 #EXTINF:-1 Lounge Bossa Nova Hits
 http://strm112.1.fm/bossanova_mobile_mp3
 #EXTINF:-1 Coffee FM
