@@ -5,6 +5,8 @@ http://uk2.streamingpulse.com:8010/;
 https://stream.srg-ssr.ch/m/rsc_de/aacp_96
 #EXTINF:-1 Piano FM Germany
 https://stream.klassikradio.de/piano/aac-64
+#EXTINF:-1 Piano FM Russia
+http://79.120.39.202:8002/classpiano
 #EXTINF:-1 Chopin FM
 https://stream1-epic-piano.radiohost.de/chopin
 #EXTINF:-1 Bach FM
@@ -37,18 +39,8 @@ https://stream1-epic-piano.radiohost.de/grieg
 https://stream.epic-piano.com/liszt
 #EXTINF:-1 Baroque FM
 https://stream.laut.fm/baroque_sonatas_radio
-#EXTINF:-1 Romantic Symphonies Radio
-https://klassikr.streamabc.net/klr_asejotj5ekq_hjz5-mp3-192-1000452
-#EXTINF:-1 Classical Romance
-https://stream1-epic-classical.radiohost.de/classical-love-music
-#EXTINF:-1 Cello FM
-http://streams.calmradio.com/api/111/128/stream
 #EXTINF:-1 Cello Radio Caprice
 http://79.120.12.130:8000/cello
-#EXTINF:-1 Piano Klassik Radio 
-https://stream.klassikradio.de/piano/mp3-128
-#EXTINF:-1 Piano Radio Caprice
-http://79.120.39.202:8002/classpiano
 #EXTINF:-1 Piano ABC Radio
 https://streamingv2.shoutcast.com/ABC-Piano
 #EXTINF:-1 Piano Epic Radio
@@ -71,39 +63,37 @@ https://klassikr.streamabc.net/klr-smooth-mp3-128-7968529
 http://strm112.1.fm/bossanova_mobile_mp3
 #EXTINF:-1 Lounge Piano Jazz
 https://stream2-epic-lounge.radiohost.de/piano-jazz-bar
-#EXTINF:-1 Lounge Piano Radio
-https://klassikr.streamabc.net/klr_e1fchiop6r4_1umk-mp3-192-2741628
-#EXTINF:-1 60's Lounge Bar
+#EXTINF:-1 1960's Lounge Bar
 https://klassikr.streamabc.net/klr_t95u57a8jxa_j18b-mp3-192-4610071
-#EXTINF:-1 60's Totally Radio
+#EXTINF:-1 1960's Totally Radio
 https://playerservices.streamtheworld.com/api/livestream-redirect/T_RAD_60S_S01.mp3
-#EXTINF:-1 60's Oldie Box
+#EXTINF:-1 1960's Oldie Box
 https://stream.laut.fm/oldie-box
-#EXTINF:-1 60's Flux FM
+#EXTINF:-1 1960's Flux FM
 https://streams.fluxfm.de/60er/mp3-128
-#EXTINF:-1 60's Classic 21
+#EXTINF:-1 1960's Classic 21
 https://radios.rtbf.be/wr-c21-60-128.mp3
-#EXTINF:-1 60's Positive FM
+#EXTINF:-1 1960's Positive FM
 https://streaming.positivity.radio/pr/posi60s/icecast.audio
-#EXTINF:-1 60's French Hits
+#EXTINF:-1 1960's French Hits
 http://stream.chantefrance.com/cf-60
-#EXTINF:-1 60's French Nostalgia
+#EXTINF:-1 1960's French Nostalgia
 https://scdn.nrjaudio.fm/adwz1/fr/30615/mp3_128.mp3
-#EXTINF:-1 50's Radio Vinyl
+#EXTINF:-1 1950's Radio Vinyl
 https://live-bauerno.sharp-stream.com/vinyl_no_mp3
-#EXTINF:-1 50's ON
+#EXTINF:-1 1950's ON
 https://0n-50s.radionetz.de/0n-50s.mp3
-#EXTINF:-1 50's Online Radio
+#EXTINF:-1 1950's Online Radio
 https://stream.0nlineradio.com/50s
-#EXTINF:-1 50's Easy Radio
+#EXTINF:-1 1950's Easy Radio
 https://streaming.exclusive.radio/uber/easy50/icecast.audio
-#EXTINF:-1 50's iHeart Radio
+#EXTINF:-1 1950's iHeart Radio
 https://stream.revma.ihrhls.com/zc6882
-#EXTINF:-1 50's & 60's FM
+#EXTINF:-1 1950's & 60's FM
 http://strm112.1.fm/60s_70s_mobile_mp3
-#EXTINF:-1 70's Flux FM
+#EXTINF:-1 1970's Flux FM
 https://fluxfm.streamabc.net/flx-70er-aacplus-64-5805170
-#EXTINF:-1 70's Heart FM
+#EXTINF:-1 1970's Heart FM
 https://ice-sov.musicradio.com/Heart70sMP3
 #EXTINF:-1 Love Splash FM
 https://ais-sa2.cdnstream1.com/2210_128.mp3
