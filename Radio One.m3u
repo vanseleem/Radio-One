@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1 Chopin FM
 https://stream1-epic-piano.radiohost.de/chopin
+#EXTINF:-1 The Classical Radio
+https://audio-mp3.ibiblio.org/wcpe48.aac
+The Breeze FM
+https://radio.streemlion.com:3225/stream
 #EXTINF:-1 Mozart FM
 https://klassikr.streamabc.net/klr-puremozart-mp3-128-6467911
 #EXTINF:-1 Bach FM
@@ -12,7 +16,7 @@ https://stream1-epic-piano.radiohost.de/tschaikowski
 #EXTINF:-1 Grieg FM
 https://stream1-epic-piano.radiohost.de/grieg
 #EXTINF:-1 Liszt FM
-https://stream1-epic-piano.radiohost.de/liszt 
+https://stream.epic-piano.com/liszt
 #EXTINF:-1 Baroque FM
 https://stream.laut.fm/baroque_sonatas_radio
 #EXTINF:-1 Romantic Symphonies Radio
@@ -31,8 +35,8 @@ http://79.120.39.202:8002/classpiano
 https://streamingv2.shoutcast.com/ABC-Piano
 #EXTINF:-1 Piano Epic Radio
 https://stream1-epic-classical.radiohost.de/classical-piano
-#EXTINF:-1 Classic Swiss Radio
-http://stream.srg-ssr.ch/m/rsc_it/mp3_128
+#EXTINF:-1 Swiss Classic Radio
+https://stream.srg-ssr.ch/m/rsc_de/mp3_128
 #EXTINF:-1  Classical ABC
 http://live-radio01.mediahubaustralia.com/2FMW/mp3/;*.mp3
 #EXTINF:-1 Classic HI ONLINE
