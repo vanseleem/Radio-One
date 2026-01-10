@@ -1,8 +1,16 @@
 #EXTM3U
+#EXTINF:-1 Classical Venice
+http://uk2.streamingpulse.com:8010/;
+#EXTINF:-1 Classical Swiss
+https://stream.srg-ssr.ch/m/rsc_de/aacp_96
+#EXTINF:-1 Piano FM Germany
+https://stream.klassikradio.de/piano/aac-64
 #EXTINF:-1 Chopin FM
 https://stream1-epic-piano.radiohost.de/chopin
 #EXTINF:-1 Bach FM
 https://stream.klassikradio.de/purebach/mp3-128
+#EXTINF:-1 Romantic Symphonies Radio
+https://klassikr.streamabc.net/klr_asejotj5ekq_hjz5-mp3-192-1000452
 #EXTINF:-1 The Classical Radio
 https://audio-mp3.ibiblio.org/wcpe48.aac
 #EXTINF:-1 The Breeze FM
