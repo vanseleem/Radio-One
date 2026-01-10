@@ -1,8 +1,10 @@
 #EXTM3U
-#EXTINF:-1 Classical Venice
-http://uk2.streamingpulse.com:8010/;
 #EXTINF:-1 Classical Swiss
 https://stream.srg-ssr.ch/m/rsc_de/aacp_96
+#EXTINF:-1 Classical Venice
+http://uk2.streamingpulse.com:8010/;
+#EXTINF:-1 Romantic Classical Radio
+https://klassikr.streamabc.net/klr_asejotj5ekq_hjz5-mp3-192-1000452
 #EXTINF:-1 Piano FM Germany
 https://stream.klassikradio.de/piano/aac-64
 #EXTINF:-1 Piano FM Russia
@@ -11,22 +13,6 @@ http://79.120.39.202:8002/classpiano
 https://rs101-krk.rmfstream.pl/CHOPIN
 #EXTINF:-1 Bach FM
 https://stream.klassikradio.de/purebach/mp3-128
-#EXTINF:-1 Romantic Symphonies Radio
-https://klassikr.streamabc.net/klr_asejotj5ekq_hjz5-mp3-192-1000452
-#EXTINF:-1 The Classical Radio
-https://audio-mp3.ibiblio.org/wcpe48.aac
-#EXTINF:-1 The Breeze FM
-https://radio.streemlion.com:3225/stream
-#EXTINF Lounge Old Music
-https://psn3.prostreaming.net/proxy/seeburg/stream
-#EXTINF:-1 Lounge FM Estonia
-https://stream.relaxfm.ee/instrumental
-#EXTINF:-1 Lounge FM America
-https://panel.retrolandigital.com/radio/8130/listen
-#EXTINF:-1 Lounge FM Russia
-http://79.120.77.11:8002/instrumental
-#EXTINF:-1 Lounge FM USA
-https://das-edge16-live365-dal02.cdnstream.com/a72786
 #EXTINF:-1 TSCHAIKOWSKI FM
 https://stream1-epic-piano.radiohost.de/tschaikowski
 #EXTINF:-1 Mozart FM
@@ -37,69 +23,67 @@ https://stream.klassikradio.de/beethoven/mp3-128
 https://stream1-epic-piano.radiohost.de/grieg
 #EXTINF:-1 Liszt FM
 https://stream.epic-piano.com/liszt
+#EXTINF:-1 Chambre Music
+https://chambermusic.stream.publicradio.org/chambermusic.aac
 #EXTINF:-1 Baroque FM
 https://stream.laut.fm/baroque_sonatas_radio
 #EXTINF:-1 Cello Radio Caprice
 http://79.120.12.130:8000/cello
-#EXTINF:-1 Piano ABC Radio
-https://streamingv2.shoutcast.com/ABC-Piano
-#EXTINF:-1 Piano Epic Radio
-https://stream1-epic-classical.radiohost.de/classical-piano
-#EXTINF:-1 Swiss Classic Radio
-https://stream.srg-ssr.ch/m/rsc_de/mp3_128
-#EXTINF:-1  Classical ABC
-http://live-radio01.mediahubaustralia.com/2FMW/mp3/;*.mp3
-#EXTINF:-1 Classic HI ONLINE
-http://mediaserv30.live-streams.nl:8088/live
-#EXTINF:-1 Klassik FM
-https://live.streams.klassikradio.de/klassikradio-deutschland/stream/mp3
+#EXTINF:-1 Relax Radio
+https://radio.streemlion.com:3225/stream
 #EXTINF:-1 Lounge ABC Radio
 https://eu1.fastcast4u.com/proxy/kpmxz?mp=/1.mp3
-#EXTINF:-1 Lounge and Coffee FM
-https://stream1-epic-classical.radiohost.de/classical-lounge
-#EXTINF:-1 Lounge Smooth Radio
-https://klassikr.streamabc.net/klr-smooth-mp3-128-7968529
+#EXTINF Lounge Classic FM
+https://psn3.prostreaming.net/proxy/seeburg/stream
+#EXTINF:-1 Lounge FM USA
+https://das-edge16-live365-dal02.cdnstream.com/a72786
+#EXTINF:-1 Lounge FM Germany
+https://klassikr.streamabc.net/klr-filmklassiker-aacplus-64-1848622
+#EXTINF:-1 Lounge FM Belgium
+https://quincy.torontocast.com:1925/stream
+#EXTINF:-1 Lounge FM Mexico
+http://s3.voscast.com:10038/;
+#EXTINF:-1 Lounge FM Estonia
+https://stream.relaxfm.ee/instrumental
+#EXTINF:-1 Lounge FM America
+https://panel.retrolandigital.com/radio/8130/listen
+#EXTINF:-1 Lounge FM Russia
+http://79.120.77.11:8002/instrumental
 #EXTINF:-1 Lounge Bossa Nova Hits
 http://strm112.1.fm/bossanova_mobile_mp3
-#EXTINF:-1 Lounge Piano Jazz
-https://stream2-epic-lounge.radiohost.de/piano-jazz-bar
-#EXTINF:-1 1960's Lounge Bar
-https://klassikr.streamabc.net/klr_t95u57a8jxa_j18b-mp3-192-4610071
-#EXTINF:-1 1960's Totally Radio
-https://playerservices.streamtheworld.com/api/livestream-redirect/T_RAD_60S_S01.mp3
-#EXTINF:-1 1960's Oldie Box
-https://stream.laut.fm/oldie-box
-#EXTINF:-1 1960's Flux FM
-https://streams.fluxfm.de/60er/mp3-128
-#EXTINF:-1 1960's Classic 21
-https://radios.rtbf.be/wr-c21-60-128.mp3
-#EXTINF:-1 1960's Positive FM
+#EXTINF:-1 Coffee FM
+https://stream1-epic-classical.radiohost.de/classical-lounge
+#EXTINF:-1 Dinner FM
+https://klassikr.streamabc.net/klassikr-smooth-aac-128-2976094
+#EXTINF:-1 Lounge Bar FM
+https://klassikr.streamabc.net/klr-60iesbarlounge-aacplus-64-7100628
+#EXTINF:-1 Hotel FM
+https://stream.klassikradio.de/smooth/aac-64
+#EXTINF:-1 Sleep FM
+https://klassikr.streamabc.net/klr-meditation-aacplus-64-8490675
+#EXTINF:-1 The Beatles FM
+https://listen.181fm.com/181-beatles_64k.aac
+#EXTINF:-1 1930's FM
+https://streaming.positivity.radio/pr/1930/icecast.audio
+#EXTINF:-1 1940's FM
+https://streaming.positivity.radio/pr/1940/icecast.audio
+#EXTINF:-1 1950's Radio
+https://quincy.torontocast.com:2945/stream
+#EXTINF:-1 1950's 0N FM
+https://0n-50s.radionetz.de/0n-50s.aac
+#EXTINF:-1 1950's iHeart Radio
+https://stream.revma.ihrhls.com/zc6882
+#EXTINF:-1 1960's Radio
+http://0n-70s.radionetz.de:8000/0n-60s.aac
+#EXTINF:-1 1960's FM
 https://streaming.positivity.radio/pr/posi60s/icecast.audio
 #EXTINF:-1 1960's French Hits
 http://stream.chantefrance.com/cf-60
-#EXTINF:-1 1960's French Nostalgia
-https://scdn.nrjaudio.fm/adwz1/fr/30615/mp3_128.mp3
-#EXTINF:-1 1950's Radio Vinyl
-https://live-bauerno.sharp-stream.com/vinyl_no_mp3
-#EXTINF:-1 1950's ON
-https://0n-50s.radionetz.de/0n-50s.mp3
-#EXTINF:-1 1950's Online Radio
-https://stream.0nlineradio.com/50s
-#EXTINF:-1 1950's Easy Radio
-https://streaming.exclusive.radio/uber/easy50/icecast.audio
-#EXTINF:-1 1950's iHeart Radio
-https://stream.revma.ihrhls.com/zc6882
-#EXTINF:-1 1950's & 60's FM
+#EXTINF:-1 1960's & 1970's FM
 http://strm112.1.fm/60s_70s_mobile_mp3
-#EXTINF:-1 1970's Flux FM
-https://fluxfm.streamabc.net/flx-70er-aacplus-64-5805170
-#EXTINF:-1 1970's Heart FM
+#EXTINF:-1 1970's Radio
+http://0n-70s.radionetz.de:8000/0n-70s.aac
+#EXTINF:-1 1970's FM
 https://ice-sov.musicradio.com/Heart70sMP3
-#EXTINF:-1 Love Splash FM
-https://ais-sa2.cdnstream1.com/2210_128.mp3
-#EXTINF:-1 1.FM - Love Classics
-https://strm112.1.fm/loveclassics_mobile_mp3
-#EXTINF:-1 90s Lovesongs
-https://ais-sa2.cdnstream1.com/2210_128.mp3
-#EXTINF:-1 Arabic Classic Zaman
-http://dione.shoutca.st:8165/;
+#EXTINF:-1 1960's Lounge Bar
+https://klassikr.streamabc.net/klr_t95u57a8jxa_j18b-mp3-192-4610071
