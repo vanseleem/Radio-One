@@ -1,18 +1,28 @@
 #EXTM3U
 #EXTINF:-1 Chopin FM
 https://stream1-epic-piano.radiohost.de/chopin
-#EXTINF:-1 The Classical Radio
-https://audio-mp3.ibiblio.org/wcpe48.aac
-The Breeze FM
-https://radio.streemlion.com:3225/stream
-#EXTINF:-1 Mozart FM
-https://klassikr.streamabc.net/klr-puremozart-mp3-128-6467911
 #EXTINF:-1 Bach FM
 https://stream.klassikradio.de/purebach/mp3-128
-#EXTINF:-1 Beethoven FM
-https://stream.klassikradio.de/beethoven/mp3-128
+#EXTINF:-1 The Classical Radio
+https://audio-mp3.ibiblio.org/wcpe48.aac
+#EXTINF:-1 The Breeze FM
+https://radio.streemlion.com:3225/stream
+#EXTINF Lounge Old Music
+https://psn3.prostreaming.net/proxy/seeburg/stream
+#EXTINF:-1 Lounge FM Estonia
+https://stream.relaxfm.ee/instrumental
+#EXTINF:-1 Lounge FM America
+https://panel.retrolandigital.com/radio/8130/listen
+#EXTINF:-1 Lounge FM Russia
+http://79.120.77.11:8002/instrumental
+#EXTINF:-1 Lounge FM USA
+https://das-edge16-live365-dal02.cdnstream.com/a72786
 #EXTINF:-1 TSCHAIKOWSKI FM
 https://stream1-epic-piano.radiohost.de/tschaikowski
+#EXTINF:-1 Mozart FM
+https://klassikr.streamabc.net/klr-puremozart-mp3-128-6467911
+#EXTINF:-1 Beethoven FM
+https://stream.klassikradio.de/beethoven/mp3-128
 #EXTINF:-1 Grieg FM
 https://stream1-epic-piano.radiohost.de/grieg
 #EXTINF:-1 Liszt FM
@@ -43,8 +53,6 @@ http://live-radio01.mediahubaustralia.com/2FMW/mp3/;*.mp3
 http://mediaserv30.live-streams.nl:8088/live
 #EXTINF:-1 Klassik FM
 https://live.streams.klassikradio.de/klassikradio-deutschland/stream/mp3
-#EXTINF:-1 Lounge Retro KJBM Radio
-https://das-edge16-live365-dal02.cdnstream.com/a72786
 #EXTINF:-1 Lounge ABC Radio
 https://eu1.fastcast4u.com/proxy/kpmxz?mp=/1.mp3
 #EXTINF:-1 Lounge and Coffee FM
