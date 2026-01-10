@@ -1,3 +1,42 @@
 #EXTM3U
 #EXTINF:-1 Linkin Park Maximum
 https://rusradio.hostingradio.ru/linkinpark96.aacp
+#EXTINF:-1 Antenne Bayern - 2010er Hits
+https://stream.antenne.de/2010er-hits/stream
+#EXTINF:-1 Best Of 2015
+https://stream.laut.fm/bestof2015
+#EXTINF:-1 Best Of 2016
+https://stream.laut.fm/thebestof2016
+#EXTINF:-1 Best Of 2017
+https://stream.laut.fm/bestof2017
+#EXTINF:-1 Best Of 2018
+https://stream.laut.fm/best-of-2018
+#EXTINF:-1 Best Of 2019
+https://stream.laut.fm/best_of_2019
+#EXTINF:-1 SRF Virus
+https://stream.srg-ssr.ch/m/drsvirus/aacp_96
+#EXTINF:-1 Antenne Bayern - Fresh Hits
+https://s6-webradio.antenne.de/fresh/stream/aacp
+#EXTINF:-1 Antenne Bayern - Happy Hits
+https://s6-webradio.antenne.de/happy-hits/stream/mp3
+#EXTINF:-1 Radio Fantasy - Feel good
+https://frontend.streamonkey.net/fantasy-feelgood
+#EXTINF:-1 1.FM - Absolute Top 40
+https://strm112.1.fm/top40_128
+#EXTINF:-1 181.fm - UK top 40 🇺🇸
+https://listen.181fm.com/181-uktop40_64k.aac
+#EXTINF:-1 Positively - 1940s
+https://streaming.positivity.radio/pr/1940/icecast.audio
+#EXTINF:-1 Positively - 1950s
+https://streaming.positivity.radio/pr/1950/icecast.audio
+#EXTINF:-1 Serenade Radio 
+https://rbx2.hnux.com/149.202.22.75:8284/;
+#EXTINF:-1 Antenne Bayern - Lounge 
+https://s2-webradio.antenne.de/lounge/stream/aacp
+#EXTINF:-1 Chérie - Zen
+https://streaming.nrjaudio.fm/ouj3acnxeb5p
+#EXTINF:-1 ABC Lounge
+https://eu1.fastcast4u.com/proxy/kpmxz/stream
+#EXTINF:-1 Antenne Bayern - Coffee Music
+https://mp3channels.webradio.antenne.de/coffee.aac
+
