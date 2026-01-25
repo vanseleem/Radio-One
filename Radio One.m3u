@@ -35,7 +35,7 @@ http://79.120.12.130:8000/cello
 https://radio.streemlion.com:3225/stream
 #EXTINF:-1 Lounge ABC Radio
 https://eu1.fastcast4u.com/proxy/kpmxz?mp=/1.mp3
-#EXTINF Lounge Classic FM
+#EXTINF:-1 Lounge Classic FM
 https://psn3.prostreaming.net/proxy/seeburg/stream
 #EXTINF:-1 Lounge FM Mexico
 http://s3.voscast.com:10038/;
