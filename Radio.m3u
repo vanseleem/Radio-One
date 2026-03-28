@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 Classical Swiss
+Classical Swiss
 https://stream.srg-ssr.ch/m/rsc_de/aacp_96
-#EXTINF:-1 Classical Venice
+Classical Venice
 https://uk2.streamingpulse.com/ssl/vcr1
-#EXTINF:-1 Romantic Classical Radio
+Romantic Classical Radio
 https://klassikr.streamabc.net/klr_asejotj5ekq_hjz5-mp3-192-1000452
-#EXTINF:-1 Piano FM Germany
+#EXTINF: Piano FM Germany
 https://stream.klassikradio.de/piano/aac-64
 #EXTINF:-1 Piano FM Russia
 http://79.120.39.202:8002/classpiano
