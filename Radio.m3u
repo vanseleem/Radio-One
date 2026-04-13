@@ -2,6 +2,10 @@
 #EXTGRP:CLASSICAL MUSIC
 #EXTINF:-1,CLASSICAL SWISS
 https://stream.srg-ssr.ch/m/rsc_de/aacp_96
+#EXTINF:-1,CHOPIN FM
+https://rs101-krk.rmfstream.pl/CHOPIN
+#EXTINF:-1,STRAUSS FM
+https://streams.calmradio.com/api/185/128/stream
 #EXTINF:-1,CLASSICAL VENICE
 https://uk2.streamingpulse.com/ssl/vcr1
 #EXTINF:-1,ROMANTIC CLASSICAL RADIO
@@ -10,16 +14,12 @@ https://klassikr.streamabc.net/klr_asejotj5ekq_hjz5-mp3-192-1000452
 https://stream.klassikradio.de/piano/aac-64
 #EXTINF:-1,PIANO FM RUSSIA
 http://79.120.39.202:8002/classpiano
-#EXTINF:-1,CHOPIN FM
-https://rs101-krk.rmfstream.pl/CHOPIN
-#EXTINF:-1,BACH FM
-https://stream.klassikradio.de/purebach/mp3-128
-#EXTINF:-1,STRAUSS FM
-https://streams.calmradio.com/api/185/128/stream
 #EXTINF:-1,TSCHAIKOWSKI FM
 https://stream1-epic-piano.radiohost.de/tschaikowski
 #EXTINF:-1,MOZART FM
 https://klassikr.streamabc.net/klr-puremozart-mp3-128-6467911
+#EXTINF:-1,BACH FM
+https://stream.klassikradio.de/purebach/mp3-128
 #EXTINF:-1,BEETHOVEN FM
 https://stream.klassikradio.de/beethoven/mp3-128
 #EXTINF:-1,GRIEG FM
@@ -33,10 +33,12 @@ https://stream.laut.fm/baroque_sonatas_radio
 #EXTINF:-1,CELLO FM
 http://79.120.12.130:8000/cello
 #EXTGRP:LOUNGE MUSIC
-#EXTINF:-1,RELAX RADIO
-https://radio.streemlion.com:3225/stream
+#EXTINF:-1,LOUNGE FM
+https://streams.radioskonto.lv:8443/lounge
 #EXTINF:-1,LOUNGE ABC RADIO
 https://eu1.fastcast4u.com/proxy/kpmxz?mp=/1.mp3
+#EXTINF:-1,RELAX RADIO
+https://radio.streemlion.com:3225/stream
 #EXTINF:-1,LOUNGE CLASSIC FM
 https://psn3.prostreaming.net/proxy/seeburg/stream
 #EXTINF:-1,LOUNGE FM MEXICO
