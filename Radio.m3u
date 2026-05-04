@@ -1,33 +1,33 @@
 #EXTM3U
 #EXTGRP:CLASSICAL MUSIC
-#EXTINF:-1,CLASSICAL SWISS
-https://stream.srg-ssr.ch/m/rsc_de/aacp_96
-#EXTINF:-1,CHOPIN FM
-https://rs101-krk.rmfstream.pl/CHOPIN
-#EXTINF:-1,STRAUSS FM
-https://streams.calmradio.com/api/185/128/stream
-#EXTINF:-1,CLASSICAL VENICE
-https://uk2.streamingpulse.com/ssl/vcr1
-#EXTINF:-1,ROMANTIC CLASSICAL RADIO
-https://klassikr.streamabc.net/klr_asejotj5ekq_hjz5-mp3-192-1000452
-#EXTINF:-1,PIANO FM GERMANY
-https://stream.klassikradio.de/piano/aac-64
-#EXTINF:-1,PIANO FM RUSSIA
-http://79.120.39.202:8002/classpiano
-#EXTINF:-1,TSCHAIKOWSKI FM
-https://stream1-epic-piano.radiohost.de/tschaikowski
-#EXTINF:-1,MOZART FM
-https://klassikr.streamabc.net/klr-puremozart-mp3-128-6467911
-#EXTINF:-1,BACH FM
-https://stream.klassikradio.de/purebach/mp3-128
-#EXTINF:-1,BEETHOVEN FM
-https://stream.klassikradio.de/beethoven/mp3-128
-#EXTINF:-1,GRIEG FM
-https://stream1-epic-piano.radiohost.de/grieg
-#EXTINF:-1,LISZT FM
-https://stream.epic-piano.com/liszt
-#EXTINF:-1,CHAMBRE MUSIC
-https://chambermusic.stream.publicradio.org/chambermusic.aac
+#EXTINF:-1,Good Morning FM
+https://dn710203.ca.archive.org/0/items/adagios-fm/Good%20Morning%20FM.mp3
+#EXTINF:-1,Frogotten FM
+https://dn710203.ca.archive.org/0/items/adagios-fm/Forgotten%20FM.mp3
+#EXTINF:-1,Soft Piano FM
+https://dn710203.ca.archive.org/0/items/adagios-fm/Soft%20Piano%20FM.mp3
+#EXTINF:-1,Remember FM
+https://dn710203.ca.archive.org/0/items/adagios-fm/Remember%20FM.mp3
+#EXTINF:-1,Charles Aznavour FM
+https://dn710203.ca.archive.org/0/items/adagios-fm/Charles%20Aznavour.mp3
+#EXTINF:-1,Lounge FM
+https://dn710203.ca.archive.org/0/items/adagios-fm/Lounge%20FM.mp3
+#EXTINF:-1,Violin Adagio FM
+https://dn710203.ca.archive.org/0/items/adagios-fm/Violin%20Adagio.mp3
+#EXTINF:-1,Cello Adagio FM
+https://dn710203.ca.archive.org/0/items/adagios-fm/Cello%20Adagio.mp3
+#EXTINF:-1,Jetaime FM
+https://dn710203.ca.archive.org/0/items/adagios-fm/Jetaime%20FM.mp3
+#EXTINF:-1,Adagios FM
+https://dn710203.ca.archive.org/0/items/adagios-fm/Adagios%20FM.mp3
+#EXTINF:-1,Chanson Damour FM
+https://dn710203.ca.archive.org/0/items/adagios-fm/Chansons%20D%E2%80%99Amour%20FM.mp3
+#EXTINF:-1,Toujours FM
+https://dn710203.ca.archive.org/0/items/adagios-fm/Toujours%20FM.mp3
+#EXTINF:-1,Relaxing Planet FM
+https://dn710203.ca.archive.org/0/items/adagios-fm/Relaxing%20Planet%20FM.mp3
+#EXTINF:-1,Jetaime FM2
+archive.org/download/adagios-fm/Jetaime%20FM2.mp3
 #EXTINF:-1,BAROQUE FM
 https://stream.laut.fm/baroque_sonatas_radio
 #EXTINF:-1,CELLO FM
