@@ -16,6 +16,8 @@ https://dn710203.ca.archive.org/0/items/adagios-fm/Lounge%20FM.mp3
 https://dn710203.ca.archive.org/0/items/adagios-fm/Violin%20Adagio.mp3
 #EXTINF:-1,Cello Adagio FM
 https://dn710203.ca.archive.org/0/items/adagios-fm/Cello%20Adagio.mp3
+#EXTINF:-1,Love FM
+https://dn710203.ca.archive.org/0/items/adagios-fm/Love%20FM.mp3
 #EXTINF:-1,Jetaime FM
 https://dn710203.ca.archive.org/0/items/adagios-fm/Jetaime%20FM.mp3
 #EXTINF:-1,Adagios FM
@@ -28,17 +30,14 @@ https://dn710203.ca.archive.org/0/items/adagios-fm/Toujours%20FM.mp3
 https://dn710203.ca.archive.org/0/items/adagios-fm/Relaxing%20Planet%20FM.mp3
 #EXTINF:-1,Jetaime FM2
 archive.org/download/adagios-fm/Jetaime%20FM2.mp3
-#EXTINF:-1,BAROQUE FM
-https://stream.laut.fm/baroque_sonatas_radio
+#EXTINF:-1,Heart FM
+https://dn710203.ca.archive.org/0/items/adagios-fm/Heart%20FM.mp3
 #EXTINF:-1,CELLO FM
-http://79.120.12.130:8000/cello
-#EXTGRP:LOUNGE MUSIC
-#EXTINF:-1,LOUNGE FM
-https://streams.radioskonto.lv:8443/lounge
-#EXTINF:-1,LOUNGE ABC RADIO
+https://dn710203.ca.archive.org/0/items/adagios-fm/Piano%20Adagio.mp3
+#EXTINF:-1,Deep Focus FM
+https://dn710203.ca.archive.org/0/items/adagios-fm/Deep%20Focus%20FM.mp3
+#EXTINF:-1,ABC LOUNGE
 https://eu1.fastcast4u.com/proxy/kpmxz?mp=/1.mp3
-#EXTINF:-1,RELAX RADIO
-https://radio.streemlion.com:3225/stream
 #EXTINF:-1,LOUNGE CLASSIC FM
 https://psn3.prostreaming.net/proxy/seeburg/stream
 #EXTINF:-1,LOUNGE FM MEXICO
